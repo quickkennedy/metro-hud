@@ -307,6 +307,32 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+
+		//NEW COLORS
+
+		"PartyMember1"							"124 173 255 255"
+		"PartyMember2"							"99  232 167 255"
+		"PartyMember3"							"229 255 121 255"
+		"PartyMember4"							"232 184 99  255"
+		"PartyMember5"							"255 118 108 255"
+		"PartyMember6"							"255 133 255 255"
+
+		"BrightYellow"							"251 235 0 255"
+
+		"ItemLimitedQuantity"					"225 209 0 255"
+
+		"Purple"								"137 69 99 255"
+
+		"QuestGold"								"208 147 75 255"
+		"HalloweenThemeColor2015_Light"			"238 126 17 255"
+		"HalloweenThemeColor2015"				"135 54 16 255"
+		"HalloweenThemeColor2015_Dark"			"108 49 21 255"
+		"QuestUncommitted"						"183 147 100 255"
+
+		"QuestMap_Bonus"						"222 217 166 255"
+		"QuestMap_ActiveOrange"					"212 127 25 255"
+		"QuestMap_InactiveGrey"					"100 100 100 255"
+		"QuestMap_BGImages"						"56 58 60 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
