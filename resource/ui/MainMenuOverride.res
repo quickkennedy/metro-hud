@@ -1,3 +1,4 @@
+"#base" "../../resource/preload.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	MainMenuOverride
@@ -1049,20 +1050,7 @@
 		"alpha"			"255"
 		"fillcolor"	"metro7"
 	}
-	MvmBox
-	{
-		"controlName"	"imagepanel"
-		"fieldName"	"Mvmbox"
-		"visible"	"0"
-		"enabled"	"1"
-		"xpos"			"310"
-		"zpos"			"1"
-		"ypos"			"c-1"
-		"wide"	"43"
-		"tall"	"40"
-		"alpha"			"255"
-		"fillcolor"	"135 5 105 255"
-	}
+	
 	"TFCharacterImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -4776,7 +4764,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"	 "QuestLogButton"
-		"xpos"			"310"
+		"xpos"			"313"
 		"zpos"			"10"
 		"ypos"			"c-1"
 		"wide"			"43"
@@ -4844,7 +4832,7 @@
 		"fieldName"	"Mvmbox"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"			"310"
+		"xpos"			"313"
 		"zpos"			"1"
 		"ypos"			"c-1"
 		"wide"	"43"

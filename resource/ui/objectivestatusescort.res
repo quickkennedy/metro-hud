@@ -92,7 +92,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../hud/cart_home_blue"
+		"image"		"replay/thumbnails/bg_blue"
 		"scaleImage"	"1"	
 		
 		"if_team_red"
