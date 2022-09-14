@@ -120,7 +120,28 @@
 			}
 		}
 	}
+	
+	"RankPanel"
+	{
+		"ControlName"	"CPvPRankPanel"
+		"fieldName"		"RankPanel"
+		"xpos"			"c-300-20"
+		"ypos"			"c-90-20+1"
+		"zpos"			"99999"
+		"wide"			"320"
+		"tall"			"90"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"0"
 
+		"matchgroup"	"MatchGroup_Casual_12v12"
+
+		"show_model"	"0"
+		"show_type"		"1"
+		
+		"bgcolor_override"	"0 255 0 0"
+	}
+	
 	 "TopLeftDataPanel"
 		{
 				"ControlName"	"EditablePanel"
@@ -139,7 +160,7 @@
 						"ControlName"	"CExLabel"
 						"fieldName"			 "WelcomeLabel"
 						"font"				  "Robotolight18"
-						"labelText"			 "#WelcomeBack"
+						"labelText"			 "Welcome back,"
 						"textAlignment"	"west"
 						"xpos"				  "0"
 						"ypos"				  "c-90"
