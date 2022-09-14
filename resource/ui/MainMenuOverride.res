@@ -4826,7 +4826,6 @@
 			"selectedBgColor_override"	"qtcwhite"
 			"image_drawcolor"	"45 45 45 255"
 			"image_armedcolor"	"255 155 10 255" //	"255 255 255 255"
-			"Command"	   "playpve"
 
 
 			"sound_depressed"	"UI/buttonclick.wav"
