@@ -13,8 +13,27 @@
 
 		"BlueScoreBG"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"BlueScoreBG"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}
+		"RedScoreBG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"RedScoreBG"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}
+
+		"BlueScoreBG2"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"BlueScoreBG2"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"0"
@@ -27,10 +46,10 @@
 			"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
 			"scaleImage"		"1"
 		}
-		"RedScoreBG"
+		"RedScoreBG2"
 		{
 			"ControlName"		"ImagePanel"
-			"fieldName"		"RedScoreBG"
+			"fieldName"		"RedScoreBG2"
 			"xpos"			"140"
 			"ypos"			"10"
 			"wide"			"0"
@@ -168,6 +187,17 @@
 		"enabled"		"1"
 		"scaleImage"		"1"	
 	}
+
+	"WinPanelBGBorder"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"WinPanelBGBorder"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+
 	"WinningTeamLabel"
 	{	
 		"ControlName"		"CExLabel"
