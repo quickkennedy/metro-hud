@@ -32,8 +32,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"-53"	[$WIN32]
-		"ypos"	"2"	[$WIN32]
+		"xpos"	"0"
+		"ypos"	"0"
 		"wide"			"f0"
 		"tall"			"480"
 	}
@@ -85,8 +85,8 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"3"
-		"ypos"			"8"
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
 	}
