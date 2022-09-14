@@ -55,6 +55,7 @@
 		"label" "]"
 		"command" "engine replay_confirmquit"
 		"OnlyAtMenu" "1"
+		"tooltip"	"quit"
 	}
 	"GeneralStoreButton"
 	{
@@ -91,6 +92,7 @@
 		"label" "LEAVE"
 		"command" "engine disconnect"
 		"OnlyInGame"	"1"
+		"tooltip"	"disconnect"
 	}
 	"CallVoteButton"
 	{
