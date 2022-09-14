@@ -1286,7 +1286,7 @@
 		"xpos"	"60"
 		"ypos"	"c-128"
 		"zpos"	"20"
-		"wide"	"140"
+		"wide"	"280"
 		"tall"	"22"
 		"autoResize"	"0"
 		"pinCorner"	"0"
