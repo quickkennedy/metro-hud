@@ -6,13 +6,13 @@
 	//	"command" "quickplay"
 	//	"OnlyAtMenu" "0"
 	//}
-	"PlayPVEButton"
-	{
-		"label" "tracker"
-		"command" "questlog"
+	//"QuestLogButton"
+	//{
+		//"label" "tracker"
+		//"command" "questlog"
 		//"OnlyAtMenu" "1"
 		//"tooltip"           "MVM"
-	}
+	//}
 	"ServerBrowserButton"
 	{
 		"label" "]" 
