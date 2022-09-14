@@ -8,7 +8,7 @@
 		"xpos"			"c-60"
 		"ypos"			"r126"
 		"wide"			"120"
-		"tall"			"2"
+		"tall"			"1"
  		"MeterFG"		"White"
 		"MeterBG"		"Tealdark"
 	}

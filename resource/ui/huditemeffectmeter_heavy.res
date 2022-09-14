@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"r131"
+		"ypos"			"r126"
 		"wide"			"120"
-		"tall"			"20"
+		"tall"			"2"
 		"MeterFG"		"White"
 		"MeterBG"		"Tealdark"
 	}
