@@ -75,7 +75,6 @@
         "visible"       "1"
         "PaintBackgroundType"   "0"
 
-
         "SubButton"
         {
             "ControlName"   "CExImageButton"
@@ -93,7 +92,7 @@
 			"textinsety"    "11"
             "use_proportional_insets" "1"
             "font"          "up48"
-            "label" "]"
+            "labeltext" "]"
             "textAlignment" "south-east"
             "dulltext"      "0"
             "brighttext"    "0"
@@ -119,21 +118,6 @@
             "image_drawcolor"   "45 45 45 255"
             "image_selectedcolor"   "240 240 240 255"
             "image_armedcolor" "255 155 10 255" //    "255 255 255 255"
-
-            "SubImage"
-            {
-                "ControlName"   "ImagePanel"
-                "fieldName"     "SubImage"
-                "xpos"          "2220"
-                "ypos"          "0"
-				"image"					"replay/thumbnails/bg_white"
-                "zpos"          "2"
-                "wide"          "2"
-                "tall"          "120"
-                "visible"       "1"
-                "enabled"       "1"
-                "scaleImage"    "1"
-            }
         }
 	}
 

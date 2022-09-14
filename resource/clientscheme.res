@@ -7826,7 +7826,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		 "Up48"
+		"Up48"
         {
             "1"
             {
@@ -11956,7 +11956,7 @@ Scheme
         }
 		"13"
 		{
-            "font" "resource/font/SimpleDirectionArrows.ttf"
+            "font" "resource/fonts/SimpleDirectionArrows.ttf"
             "name" "SimpleDirectionArrows"
 		}
 		"14"
@@ -12002,7 +12002,7 @@ Scheme
 		 "23"
         {
 
-            "font" "resource/font/Blocks.ttf"
+            "font" "resource/fonts/Blocks.ttf"
             "name" "Blocks"
 		}
 		"24"
@@ -12074,7 +12074,7 @@ Scheme
 	"36"
 		{
 				"font" "resource/fonts/Productnumber.ttf"
-				"name" Productnumber"
+				"name" "Productnumber"
 		}
 	}
 }
