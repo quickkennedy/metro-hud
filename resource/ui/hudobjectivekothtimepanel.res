@@ -119,7 +119,7 @@
 		"ControlName"		"imagepanel"
 		"fieldName"			"ActiveTimerBG"
 		"xpos"				"55"
-		"ypos"				"53"
+		"ypos"				"57"
 		"zpos"				"13"
 		"wide"				"40"
 		"tall"				"2"
@@ -127,6 +127,9 @@
 		"enabled"			"1"
 		"fillcolor"			"255 255 255 255"
 		"border"			"noborder"
-	
+		if_match
+		{
+			"xpos"			"99999"
+		}
 	}
 	
