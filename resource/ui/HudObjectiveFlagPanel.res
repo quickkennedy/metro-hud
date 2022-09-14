@@ -372,7 +372,7 @@
 		}
 	}	
 		
-		"BlueFlag"
+	"BlueFlag"
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
@@ -410,6 +410,11 @@
 		"if_no_flags"
 		{
 			"visible"	"0"
+		}
+		
+		"if_mvm"
+		{
+			"ypos"	"r85"
 		}
 	}
 			
