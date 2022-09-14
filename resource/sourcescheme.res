@@ -24,7 +24,7 @@
 		Border.Bright										"Blank"
 		Border.Dark											"Blank"
 		Border.Selection									"Blank"
-		Border.DarkSolid									"Black"
+		Border.DarkSolid									"Blank" //"Black"
 
 		Button.TextColor									"White"
 		Button.BgColor										"TransparentBlack"
