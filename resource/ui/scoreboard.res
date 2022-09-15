@@ -10,16 +10,17 @@
 		"tall"				"480"
 		"visible"			"1"
 		"enabled"			"1"
-        "medal_width"		"4"
-		"avatar_width"		"42"        // 42 for lower res
-		"name_width"		"72"
-		"status_width"		"0"
-		"nemesis_width"		"14"
-		"class_width"		"15"
-		"score_width"		"24"
-		"ping_width"		"21"
-		"stats_width"       "21"
-		"killstreak_width"  "21"
+        
+		"medal_width"								"0"
+		"avatar_width"								"55"
+		"spacer"									"2"
+		"name_width"								"85"
+		"nemesis_width"								"15"
+		"class_width"								"15"
+		"score_width"								"20"
+		"ping_width"								"20"
+		"killstreak_width"							"12"
+		"killstreak_image_width" 					"12"
 	}
     "ServerTimeLeft"
 	{
