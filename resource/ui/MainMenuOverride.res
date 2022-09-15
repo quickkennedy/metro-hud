@@ -125,7 +125,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"c-300-20"
+		"xpos"			"105" //"c-300-20"
 		"ypos"			"c-90-20+1"
 		"zpos"			"99999"
 		"wide"			"320"
