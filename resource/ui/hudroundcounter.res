@@ -3,7 +3,7 @@
 	"RoundCounter"
 	{
 		"fieldName"		"RoundCounter"
-		"xpos"			"cs-0.5"
+		"xpos"			"999999"
 		"ypos"			"-2"
 		"zpos"			"2"		
 		"wide"			"300"
