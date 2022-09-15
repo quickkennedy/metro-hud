@@ -93,7 +93,7 @@
 		"alpha"          "0"
 		"textAlignment"	"east"
 		"font"			"bold48"
-		"fgcolor"		"black"
+		"fgcolor"		"base03trans"
 	}
 	"-"
 	{
@@ -127,7 +127,7 @@
 		"alpha"          "0"
 		"textAlignment"	"east"
 		"font"			"bold48"
-		"fgcolor"		"black"
+		"fgcolor"		"base03trans"
 	}
 
 	"PlayerStatusHealthValue"
