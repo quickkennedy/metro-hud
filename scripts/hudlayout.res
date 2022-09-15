@@ -199,11 +199,9 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"400"	[$WIN32]
+		"xpos"					"0"	[$WIN32]
 		"ypos"					"343"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r184"	[$X360]
-		"wide"					"116"
+		"wide"					"f0"
 		"tall"  				"180"
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -497,7 +495,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r630"	[$WIN32]
-		"ypos"	 "0"	[$WIN32]
+		"ypos"	 "20"	[$WIN32]
 		"xpos"	 "r630"	[$X360]
 		"ypos"	 "2"	[$X360]
 		"wide"	 "628"
