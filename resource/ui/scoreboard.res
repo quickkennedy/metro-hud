@@ -29,14 +29,14 @@
 		"font"			"ProductNumber20"
 		"font_minmode"		"ProductNumber20"
 		"labelText"		"%servertimeleft%"
-		"textinsetx"	"-179"
-		"textinsetx_minmode"	"-4"
+		"textinsetx"	"0"
+		//"textinsetx_minmode"	"0"
 		"use_proportional_insets" "1"
 		"use_proportional_insets_minmode" "1"
 		"textAlignment"	"west"
 		"textAlignment_minmode"	"west"
 		"fgcolor"			"White"
-		"xpos"			"4"
+		"xpos"			"2"
 		"ypos"			"0"
 		"ypos_minmode"		"0"
 		"zpos"			"18"
@@ -172,7 +172,7 @@
 		"xpos_minmode"			"0"
 		"ypos"			"r116"
 		"ypos_minmode"		"r34"
-		"zpos"			"2"
+		"zpos"			"0"
 		"wide"			"468"
 		"wide_minmode"			"f0"
 		"tall"			"34"
@@ -1027,33 +1027,33 @@
 				"tall"		"54"
 			}
 		}
-    "Kills2"
-    {
-      "ControlName"	"CExLabel"
-      "fieldName"		"Kills2"
-      "font"			"Medium26"
-      "labelText"		"%kills%"
-      "textAlignment"	"east"
-      "xpos"			"c-235"
-      "ypos"			"r30"
-      "zpos"			"3"
-      "wide"			"50"
-      "tall"			"26"
-      "fgcolor"		"Black"
-      "visible"		"1"
-      "enabled"		"1"
+		"Kills2"
+		{
+		  "ControlName"	"CExLabel"
+		  "fieldName"		"Kills2"
+		  "font"			"Medium26"
+		  "labelText"		"%kills%"
+		  "textAlignment"	"east"
+		  "xpos"			"c-235"
+		  "ypos"			"r30"
+		  "zpos"			"3"
+		  "wide"			"50"
+		  "tall"			"26"
+		  "fgcolor"		"Black"
+		  "visible"		"1"
+		  "enabled"		"1"
 
-      if_mvm
-      {
-        "fgcolor"		"Black"
-        "textAlignment"	"east"
-        "font"		"Medium54"
-        "xpos"		"c-323"
-        "ypos"		"r170"
-        "wide"		"140"
-        "tall"		"54"
-      }
-    }
+		  if_mvm
+		  {
+			"fgcolor"		"Black"
+			"textAlignment"	"east"
+			"font"		"Medium54"
+			"xpos"		"c-323"
+			"ypos"		"r170"
+			"wide"		"140"
+			"tall"		"54"
+		  }
+		}
 		"DeathsLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1099,8 +1099,8 @@
         "xpos"		"c-176"
         "ypos"		"r170"
         "tall"		"54"
-      }
     }
+      }
 		"Deaths"
 		{
 			"ControlName"	"CExLabel"
@@ -1153,32 +1153,32 @@
 				"ypos"		"r172"
 			}
 		}
-    "AssistsLabel2"
-    {
-      "ControlName"		"CExLabel"
-      "fieldName"		"AssistsLabel2"
-      "font"			"Medium9"
-      "labelText"		"Assists:"
-      "fgcolor"		"Black"
-      "textAlignment"		"east"
-      "xpos"			"c-185"
-      "ypos"			"r31"
-      "zpos"			"3"
-      "wide"			"80"
-      "tall"			"11"
-      "visible"		"1"
-      "enabled"		"1"
+		"AssistsLabel2"
+		{
+		  "ControlName"		"CExLabel"
+		  "fieldName"		"AssistsLabel2"
+		  "font"			"Medium9"
+		  "labelText"		"Assists:"
+		  "fgcolor"		"Black"
+		  "textAlignment"		"east"
+		  "xpos"			"c-185"
+		  "ypos"			"r31"
+		  "zpos"			"3"
+		  "wide"			"80"
+		  "tall"			"11"
+		  "visible"		"1"
+		  "enabled"		"1"
 
-      if_mvm
-      {
-                "textAlignment"		"west"
-                "fgcolor"		"Black"
-                "tall"			"15"
-        "font"		"Medium9"
-        "xpos"		"c-70"
-        "ypos"		"r172"
-      }
-    }
+		  if_mvm
+		  {
+					"textAlignment"		"west"
+					"fgcolor"		"Black"
+					"tall"			"15"
+			"font"		"Medium9"
+			"xpos"		"c-70"
+			"ypos"		"r172"
+		  }
+		}
 		"Assists"
 		{
 			"ControlName"	"CExLabel"
@@ -1205,7 +1205,7 @@
 				"ypos"		"r172"
 			}
 		}
-    "Assists2"
+		"Assists2"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Assists2"
