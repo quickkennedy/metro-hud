@@ -1131,7 +1131,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Assists:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1148,7 +1148,7 @@
                 "textAlignment"		"west"
                 "fgcolor"		"Black"
                 "tall"			"15"
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r172"
 			}
@@ -1157,7 +1157,7 @@
 		{
 		  "ControlName"		"CExLabel"
 		  "fieldName"		"AssistsLabel2"
-		  "font"			"Medium9"
+		  "font"			"Default"
 		  "labelText"		"Assists:"
 		  "fgcolor"		"Black"
 		  "textAlignment"		"east"
@@ -1174,7 +1174,7 @@
 					"textAlignment"		"west"
 					"fgcolor"		"Black"
 					"tall"			"15"
-			"font"		"Medium9"
+			"font"		"Default"
 			"xpos"		"c-70"
 			"ypos"		"r172"
 		  }
@@ -1183,7 +1183,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Assists"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"%assists%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
@@ -1200,7 +1200,7 @@
                 "textAlignment"		"east"
                 "fgcolor"		"Black"
                 "tall"			"15"
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r172"
 			}
@@ -1209,7 +1209,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Assists2"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"%assists%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
@@ -1226,7 +1226,7 @@
                 "textAlignment"		"east"
                 "fgcolor"		"Black"
                 "tall"			"15"
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r172"
 			}
@@ -1235,7 +1235,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"CapturesLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Caps:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1251,22 +1251,22 @@
 			{
                 "fgcolor"		"Black"
                 "tall"			"15"
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r162"
 			}
 		}
-		"Captures"
+		"Captures2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Captures"
-			"font"			"Medium9"
+			"fieldName"		"Captures2"
+			"font"			"Default"
 			"labelText"		"%captures%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c-103"
 			"ypos"			"r22"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1276,7 +1276,7 @@
 			{
                 "fgcolor"		"Black"
                 "textAlignment"	"east"
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r162"
                 "tall"			"15"
@@ -1286,7 +1286,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DefensesLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Defenses:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1300,22 +1300,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r152"
 			}
 		}
-		"Defenses"
+		"Defenses2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Defenses"
-			"font"			"Medium9"
+			"fieldName"		"Defenses2"
+			"font"			"Default"
 			"labelText"		"%defenses%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c-103"
 			"ypos"			"r13"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1323,7 +1323,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r152"
 			}
@@ -1332,7 +1332,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DominationLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Dominations:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1346,22 +1346,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r142"
 			}
 		}
-		"Domination"
+		"Domination2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Domination"
-			"font"			"Medium9"
+			"fieldName"		"Domination2"
+			"font"			"Default"
 			"labelText"		"%dominations%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c-23"
 			"ypos"			"r22"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1369,7 +1369,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r142"
 			}
@@ -1378,7 +1378,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RevengeLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Revenges:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1392,22 +1392,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r132"
 			}
 		}
-		"Revenge"
+		"Revenge2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Revenge"
-			"font"			"Medium9"
+			"fieldName"		"Revenge2"
+			"font"			"Default"
 			"labelText"		"%Revenge%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c-23"
 			"ypos"			"r13"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1415,7 +1415,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r132"
 			}
@@ -1424,7 +1424,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DestructionLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Destructions:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1438,22 +1438,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-70"
 				"ypos"		"r122"
 			}
 		}
-		"Destruction"
+		"Destruction2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Destruction"
-			"font"			"Medium9"
+			"fieldName"		"Destruction2"
+			"font"			"Default"
 			"labelText"		"%destruction%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c-23"
 			"ypos"			"r31"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1461,7 +1461,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c-61"
 				"ypos"		"r122"
 			}
@@ -1470,7 +1470,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"HealingLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Healing:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1484,22 +1484,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r172"
 			}
 		}
-		"Healing"
+		"Healing2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Healing"
-			"font"			"Medium9"
+			"fieldName"		"Healing2"
+			"font"			"Default"
 			"labelText"		"%healing%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c117"
 			"ypos"			"r31"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1507,7 +1507,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r172"
 				"wide"		"163"
@@ -1517,7 +1517,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"InvulnLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Ubers:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1531,22 +1531,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r162"
 			}
 		}
-		"Invuln"
+		"Invuln2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Invuln"
-			"font"			"Medium9"
+			"fieldName"		"Invuln2"
+			"font"			"Default"
 			"labelText"		"%invulns%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c117"
 			"ypos"			"r22"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1554,7 +1554,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r162"
 				"wide"		"163"
@@ -1564,7 +1564,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HeadshotsLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Headshots:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1578,22 +1578,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r152"
 			}
 		}
-		"Headshots"
+		"Headshots2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Headshots"
-			"font"			"Medium9"
+			"fieldName"		"Headshots2"
+			"font"			"Default"
 			"labelText"		"%headshots%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c52"
 			"ypos"			"r22"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1601,7 +1601,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r152"
 				"wide"		"163"
@@ -1611,7 +1611,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BackstabsLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Backstabs:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1625,22 +1625,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r142"
 			}
 		}
-		"Backstabs"
+		"Backstabs2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Backstabs"
-			"font"			"Medium9"
+			"fieldName"		"Backstabs2"
+			"font"			"Default"
 			"labelText"		"%backstabs%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c52"
 			"ypos"			"r31"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1648,7 +1648,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r142"
 				"wide"		"163"
@@ -1658,7 +1658,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TeleportsLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Teleports:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1672,22 +1672,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r132"
 			}
 		}
-		"Teleports"
+		"Teleports2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Teleports"
-			"font"			"Medium9"
+			"fieldName"		"Teleports2"
+			"font"			"Default"
 			"labelText"		"%teleports%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c52"
 			"ypos"			"r13"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1695,7 +1695,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r132"
 				"wide"		"163"
@@ -1705,7 +1705,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BonusLabel"
-			"font"			"Medium9"
+			"font"			"Default"
 			"labelText"		"Bonus:"
 			"fgcolor"		"Black"
 			"textAlignment"		"east"
@@ -1719,22 +1719,22 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c118"
 				"ypos"		"r122"
 			}
 		}
-		"Bonus"
+		"Bonus2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Bonus"
-			"font"			"Medium9"
+			"fieldName"		"Bonus2"
+			"font"			"Default"
 			"labelText"		"%bonus%"
 			"fgcolor"		"Black"
 			"textAlignment"	"west"
 			"xpos"			"c117"
 			"ypos"			"r13"
-			"zpos"			"3"
+			"zpos"			"4"
 			"wide"			"163"
 			"tall"			"11"
 			"visible"		"1"
@@ -1742,7 +1742,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium9"
+				"font"		"Default"
 				"xpos"		"c128"
 				"ypos"		"r122"
 				"wide"		"163"
@@ -1769,13 +1769,13 @@
 			if_mvm
 			{
 				"font"			"Medium18"
-        "textAlignment" 	"east"
+				"textAlignment" 	"east"
 				"xpos"			"c21"
-        "ypos"			"r368"
-        "zpos"          "15"
-        "wide"			"270"
-        "tall"			"18"
-        "fgcolor"		"Black"
+				"ypos"			"r368"
+				"zpos"          "15"
+				"wide"			"270"
+				"tall"			"18"
+				"fgcolor"		"Black"
 			}
 		}
 		"GameType"
